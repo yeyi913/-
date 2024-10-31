@@ -1,7 +1,7 @@
 #!/usr/bin/python 3
 # COADER : AKASH BLACK HAT
 import os
-
+import pyfiglet
 try:
     import requests
 except:
